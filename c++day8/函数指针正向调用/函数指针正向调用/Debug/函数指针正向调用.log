@@ -1,0 +1,24 @@
+﻿生成启动时间为 2019/3/8 22:28:08。
+     1>项目“F:\c++ project\c++day8\函数指针正向调用\函数指针正向调用\函数指针正向调用.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\函数指针正向调用.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\VS2013\VC\bin\CL.exe /c /I\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\函数指针正向调用.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "函数指针正向调用Dlg.cpp"
+         函数指针正向调用Dlg.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\c++ project\c++day8\函数指针正向调用\Debug\函数指针正向调用.exe" /INCREMENTAL /NOLOGO /LIBPATH:\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"F:\c++ project\c++day8\函数指针正向调用\Debug\函数指针正向调用.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\c++ project\c++day8\函数指针正向调用\Debug\函数指针正向调用.lib" /MACHINE:X86 "Debug\函数指针正向调用.res"
+         Debug\stdafx.obj
+         "Debug\函数指针正向调用.obj"
+         "Debug\函数指针正向调用Dlg.obj"
+         函数指针正向调用.vcxproj -> F:\c++ project\c++day8\函数指针正向调用\Debug\函数指针正向调用.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\函数指针正向调用.tlog\unsuccessfulbuild”。
+         正在对“Debug\函数指针正向调用.tlog\函数指针正向调用.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\c++ project\c++day8\函数指针正向调用\函数指针正向调用\函数指针正向调用.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.17

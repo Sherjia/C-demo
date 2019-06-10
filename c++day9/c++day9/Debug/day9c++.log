@@ -1,0 +1,44 @@
+﻿生成启动时间为 2019/3/15 14:12:59。
+     1>项目“F:\c++ project\day9c++\day9c++\day9c++.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\day9c++.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyVector.cpp MyVector_test.cpp
+         MyVector_test.cpp
+     1>f:\c++ project\day9c++\day9c++\myvector.h(15): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+                 f:\c++ project\day9c++\day9c++\myvector.h(26): 参见对正在编译的类 模板 实例化“MyVetcor<T>”的引用
+     1>f:\c++ project\day9c++\day9c++\myvector.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(27): warning C4346: “MyVetcor<T>::{ctor}”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(27): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(38): error C2995: “MyVetcor<T>::MyVetcor(int)”: 函数模板已经定义
+                 f:\c++ project\day9c++\day9c++\myvector.h(9) : 参见“MyVetcor<T>::MyVetcor”的声明
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2988: 不可识别的模板声明/定义
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2059: 语法错误:“<”
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2065: “T”: 未声明的标识符
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2923: “MyVetcor”: 对于参数“T”，“T”不是有效的 模板 类型变量
+     1>f:\c++ project\day9c++\day9c++\myvector_test.cpp(7): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\c++ project\day9c++\day9c++\myvector_test.cpp(7): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+         MyVector.cpp
+     1>f:\c++ project\day9c++\day9c++\myvector.h(15): error C2143: 语法错误 : 缺少“;”(在“&”的前面)
+                 f:\c++ project\day9c++\day9c++\myvector.h(26): 参见对正在编译的类 模板 实例化“MyVetcor<T>”的引用
+     1>f:\c++ project\day9c++\day9c++\myvector.h(15): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(27): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(27): warning C4346: “MyVetcor<T>::{ctor}”: 依赖名称不是类型
+                 用“typename”为前缀来表示类型
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(27): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(38): error C2995: “MyVetcor<T>::MyVetcor(int)”: 函数模板已经定义
+                 f:\c++ project\day9c++\day9c++\myvector.h(9) : 参见“MyVetcor<T>::MyVetcor”的声明
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2988: 不可识别的模板声明/定义
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2059: 语法错误:“<”
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2065: “T”: 未声明的标识符
+     1>f:\c++ project\day9c++\day9c++\myvector.cpp(59): error C2923: “MyVetcor”: 对于参数“T”，“T”不是有效的 模板 类型变量
+         正在生成代码...
+     1>已完成生成项目“F:\c++ project\day9c++\day9c++\day9c++.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.70

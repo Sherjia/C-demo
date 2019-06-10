@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1539852458 source:f:\c++ project\chapter9sources\main.cpp
+	<iostream>
+	"GzDemo.h"
+	"EWDemo.h"
+	"MyCalc.h"
+
+1539841570 f:\c++ project\chapter9sources\gzdemo.h
+	<iostream>
+
+1539769024 f:\c++ project\chapter9sources\ewdemo.h
+	<iostream>
+
+1539844656 f:\c++ project\chapter9sources\mycalc.h
+	<iostream>
+

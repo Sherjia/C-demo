@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/3/4 17:09:02。
+     1>项目“F:\c++ project\c++day7\多态原理课堂操练\多态原理课堂操练\多态原理课堂操练.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\多态原理课堂操练.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "dm_08面向抽象类计算程序员的工资.cpp"
+         dm_08面向抽象类计算程序员的工资.cpp
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\c++ project\c++day7\多态原理课堂操练\Debug\多态原理课堂操练.exe" /INCREMENTAL /NOLOGO /LIBPATH:\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\c++ project\c++day7\多态原理课堂操练\Debug\多态原理课堂操练.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\c++ project\c++day7\多态原理课堂操练\Debug\多态原理课堂操练.lib" /MACHINE:X86 "Debug\dm_08面向抽象类计算程序员的工资.obj"
+         多态原理课堂操练.vcxproj -> F:\c++ project\c++day7\多态原理课堂操练\Debug\多态原理课堂操练.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\多态原理课堂操练.tlog\unsuccessfulbuild”。
+         正在对“Debug\多态原理课堂操练.tlog\多态原理课堂操练.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\c++ project\c++day7\多态原理课堂操练\多态原理课堂操练\多态原理课堂操练.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.37

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539738165 source:f:\c++ project\myprincess\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<vector>
+	<array>
+

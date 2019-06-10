@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1540177873 source:f:\c++ project\chapter11demo\src\landownerv2.cpp
+	"LandOwnerV2.h"
+
+1540173921 f:\c++ project\chapter11demo\include\landownerv2.h
+	<iostream>
+
+1540279722 source:f:\c++ project\chapter11demo\main.cpp
+	<iostream>
+	"LandOwner.h"
+
+1540189309 source:f:\c++ project\chapter11demo\src\landownerv3.cpp
+	"LandOwnerV3.h"
+
+1540189270 f:\c++ project\chapter11demo\include\landownerv3.h
+
+1540190592 f:\c++ project\chapter11demo\include\student.h
+	<iostream>
+
+1540198895 source:f:\c++ project\chapter11demo\src\student.cpp
+	"Student.h"
+
+1540278617 f:\c++ project\chapter11demo\include\landowner.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<iterator>
+	<algorithm>
+
+1540279853 source:f:\c++ project\chapter11demo\src\landowner.cpp
+	"LandOwner.h"
+

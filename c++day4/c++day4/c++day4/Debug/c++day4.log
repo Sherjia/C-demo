@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/1/30 16:41:35。
+     1>项目“F:\c++ project\c++day4\c++day4\c++day4\c++day4.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\c++day4.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /I\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyArray.cpp TestArray.cpp
+         TestArray.cpp
+         MyArray.cpp
+         正在生成代码...
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\c++ project\c++day4\c++day4\Debug\c++day4.exe" /INCREMENTAL /NOLOGO /LIBPATH:\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\c++ project\c++day4\c++day4\Debug\c++day4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\c++ project\c++day4\c++day4\Debug\c++day4.lib" /MACHINE:X86 Debug\MyArray.obj
+         Debug\TestArray.obj
+         c++day4.vcxproj -> F:\c++ project\c++day4\c++day4\Debug\c++day4.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\c++day4.tlog\unsuccessfulbuild”。
+         正在对“Debug\c++day4.tlog\c++day4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\c++ project\c++day4\c++day4\c++day4\c++day4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.71
